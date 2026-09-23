@@ -1,1 +1,36 @@
-# OofPoof681.github.io
+<!DOCTYPE html5>
+<head>
+<title>My Humble Abode</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+
+<body>
+<p>
+	Hi, I'm Lucia
+</p>
+
+<p>
+	I like older console games, Hearts of Iron IV, Minecraft, and Roblox
+</p>
+	
+<p>
+	I am a genderfluid trans woman, and She/Her works for me. For more, see my <a href="https://bsky.app/profile/goblinpegger.bsky.social">pronouns.page</a>
+</p>
+
+<p>
+	other socials
+</p>	
+
+<p>
+	<a href="https://bsky.app/profile/goblinpegger.bsky.social">Bluesky</a>
+</p>
+
+<p>
+	<a href="https://x.com/goblinpegged">Twitter </a>
+</p>
+
+<p>
+	<a href="https://steamcommunity.com/id/OofPoof/">Steam </a>
+</p>
+</body>
